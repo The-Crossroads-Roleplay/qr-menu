@@ -1,7 +1,7 @@
 # qr-menu
 Menu System for the qrCore Framework
 
-![image](https://user-images.githubusercontent.com/57848836/158486138-77953fac-7583-43cb-9869-34a2588497fb.png)
+![image](https://cdn.discordapp.com/attachments/1054832278171303997/1054832344130924684/horsestuff.png)
 
 # License
 
