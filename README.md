@@ -20,3 +20,7 @@ Menu System for the qrCore Framework
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>
+
+
+# Credit
+- All credit goes to the QRCORE team for basecode and functionality
